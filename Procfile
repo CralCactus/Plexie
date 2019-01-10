@@ -1,1 +1,1 @@
-eyzalts: node.js
+eyzalts: node app.js
